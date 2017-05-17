@@ -20,3 +20,4 @@ Thumbs.db
 !public/templates/*.csv
 platforms/
 plugins/
+bower_components/
